@@ -1,16 +1,11 @@
-# mine
+#   Mine 
 
-A new Flutter project.
+App desenvolvido em Flutter para a matéria de Engenharia de Software do curso de Ciência da Computação - Aline Rose e Milena Rios
 
-## Getting Started
+## Funcionamento
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+O aplicativo é um sistema de gerenciamento de notas para professores e alunos.
+Ele funciona da seguinte maneira, o professor pode cadastrar o aluno e colocar suas notas da N1 E N2 e os alunos podem entrar no sistema para ter acesso a sua média.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Vídeo demonstrativo: https://youtu.be/CAFN5WCbDFI
